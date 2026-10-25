@@ -1,1 +1,1 @@
-Studio
+TALEND Studio 8 
