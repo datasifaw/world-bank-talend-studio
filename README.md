@@ -5,5 +5,3 @@ Pipline DATA
 BANK ECONOMIC
 
 
-
-
